@@ -4,28 +4,41 @@
 而其他的数字即使不是如此，在经过若干次的变换之后也必然会到纯偶数：16-8-4-2-1的循环。
 据日本和美国的数学家攻关研究，在小于7*10^11的所有的正整数，都符合这个规律。
 '''
-
-def HailStone(n,ls):
+#递归实现
+def HailStone_Recursion(n,ls):
+    ls.append(n)
     if n == 1:
-        ls.append(n)
+        
         return ls
     elif n%2 == 0:
-        ls.append(n)
+        
         n = n//2
         
         ls = HailStone(n,ls)
         return ls
     else:
-        ls.append(n)
+        
         n = 3*n + 1
         
         ls = HailStone(n,ls)
         return ls
-
+#递归函数使用示范
 '''
 rs = []
 
-print( HailStone(  23 , rs ) )
+print( HailStone_Recursion(  23 , rs ) )
 '''
-
-
+#迭代实现
+def HailStone_iteration(n):
+    rs = []
+    while 1<=n :
+        rs.append(n)
+        if n == 1:
+            break
+        elif n%2==0:
+            n = n//2
+        else:
+            n = n * 3 + 1
+    return rs
+        
+print(HailStone_iteration(42))        
