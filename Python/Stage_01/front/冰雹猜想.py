@@ -25,7 +25,7 @@ def HailStone_Recursion(n,ls):
         
         ls = HailStone(n,ls)
         return ls
-#递归函数使用示范
+#递归实现使用示范
 '''
 rs = []
 
@@ -43,5 +43,7 @@ def HailStone_iteration(n):
         else:
             n = n * 3 + 1
     return rs
-        
-print(HailStone_iteration(42))        
+#迭代实现使用示范
+'''        
+print(HailStone_iteration(42))
+'''
