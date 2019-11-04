@@ -7,3 +7,5 @@ T(n) = O( f(n) ) 存在c>0，当n大于2后，有T(n) < c*f(n)，以此我们可
 * 常系数可以忽略： O( f(n) ) = O( c * f(n) )
 * 低次项可以向上合并或忽略。
 ![图1-2加载失败](http://m.qpic.cn/psb?/V123pazn0FKOtx/zJXm5qmXWKK*6UdOJiLLuIOcTp9Bz4IL3F2aLcI7W*I!/b/dL4AAAAAAAAA&bo=VQPHAAAAAAARB6E!&rf=viewer_4&t=5 "图1-2")
+
+###### 所以说，O( f(n) )是对T(n)的一种悲观预测。
