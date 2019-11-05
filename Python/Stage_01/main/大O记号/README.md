@@ -9,3 +9,10 @@ T(n) = O( f(n) ) 存在c>0，当n大于2后，有T(n) < c*f(n)，以此我们可
 ![图1-2加载失败](http://m.qpic.cn/psb?/V123pazn0FKOtx/zJXm5qmXWKK*6UdOJiLLuIOcTp9Bz4IL3F2aLcI7W*I!/b/dL4AAAAAAAAA&bo=VQPHAAAAAAARB6E!&rf=viewer_4&t=5 "图1-2")
 
 ###### 所以说，O( f(n) )是对T(n)的一种悲观预测。
+### 复杂度分析
+#### 常数复杂度 O(1)
+若算法中语句执行次数为一个常数，则时间复杂度为O(1)，形如 2 = 2013 = 2013x2013 = O(1) , 甚至2013^2013 = O(1)。这类算法的效率最高
+#### 对数复杂度O(logn)
+* 对数 lnn lgn 等等...
+* 常数底数无所谓，因为
+![图1-3加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/I8fwnhG*5nywo1Qyf7l2HufFe0tGXI8YhHsUpfLEs7Q!/m/dLYAAAAAAAAAnull&bo=xQJTAAAAAAARB6Q!&rf=photolist&t=5 "图1-3")
