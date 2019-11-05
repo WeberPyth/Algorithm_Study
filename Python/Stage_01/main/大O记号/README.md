@@ -21,3 +21,6 @@ T(n) = O( f(n) ) 存在c>0，当n大于2后，有T(n) < c*f(n)，以此我们可
 ![图1-4加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/J7cSjXG8ugI5AUYZ5ndOGQHqPkSmd3UNtIGGb3QMUp4!/m/dLYAAAAAAAAAnull&bo=BQI4AAAAAAARBw8!&rf=photolist&t=5 "图1-4")
 * 对数多项式可以忽略低次项，从而达到缩减的目的
 ![图1-5加载失败](http://a4.qpic.cn/psb?/V123pazn0FKOtx/bzQT6pyJXQVFXnD0ngYnmCptBeeIREBrM.WOyJTAvt4!/m/dL8AAAAAAAAAnull&bo=cwI4AAAAAAARB3k!&rf=photolist&t=5 "图1-5")
+#### O(n^c)
+此类算法仍然遵循忽略常数项和忽略低次项的原则来计算复杂度
+![图1-6加载失败](http://a1.qpic.cn/psb?/V123pazn0FKOtx/8alg7UbqagqLsLcYXboXNwCLNYygSZk8.FOM05AySgM!/m/dFQBAAAAAAAAnull&bo=UAOwAAAAAAARB9M!&rf=photolist&t=5 "图1-6")
