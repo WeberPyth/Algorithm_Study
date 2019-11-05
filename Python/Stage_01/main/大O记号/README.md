@@ -24,3 +24,8 @@ T(n) = O( f(n) ) 存在c>0，当n大于2后，有T(n) < c*f(n)，以此我们可
 #### O(n^c)
 此类算法仍然遵循忽略常数项和忽略低次项的原则来计算复杂度
 ![图1-6加载失败](http://a1.qpic.cn/psb?/V123pazn0FKOtx/8alg7UbqagqLsLcYXboXNwCLNYygSZk8.FOM05AySgM!/m/dFQBAAAAAAAAnull&bo=UAOwAAAAAAARB9M!&rf=photolist&t=5 "图1-6")
+#### 线性复杂度: O(n)
+###### 一般地，常见的复杂度范围为O(n)到O(n^2)。通常来说，这类算法的效率通常认为已可令人满意。
+#### 指数复杂度O(2^n)
+这类算法的计算成本增长极快，通常被认为不可忍受。
+###### 从O(n^c)到O(2^n)是从有效算法到无效算法的分水岭，很多问题的O(2^n)算法往往显而易见，然而，设计出O(n^c)算法却极其不易，甚至有时注定地只能是徒劳无功。
