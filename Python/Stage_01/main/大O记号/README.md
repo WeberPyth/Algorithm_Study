@@ -16,3 +16,5 @@ T(n) = O( f(n) ) 存在c>0，当n大于2后，有T(n) < c*f(n)，以此我们可
 * 对数 lnn lgn 等等...
 * 常数底数无所谓，因为
 ![图1-3加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/I8fwnhG*5nywo1Qyf7l2HufFe0tGXI8YhHsUpfLEs7Q!/m/dLYAAAAAAAAAnull&bo=xQJTAAAAAAARB6Q!&rf=photolist&t=5 "图1-3")
+* 常数幂数无所谓，因为
+![图1-4加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/J7cSjXG8ugI5AUYZ5ndOGQHqPkSmd3UNtIGGb3QMUp4!/m/dLYAAAAAAAAAnull&bo=BQI4AAAAAAARBw8!&rf=photolist&t=5 "图1-4")
