@@ -29,3 +29,5 @@ T(n) = O( f(n) ) 存在c>0，当n大于2后，有T(n) < c*f(n)，以此我们可
 #### 指数复杂度O(2^n)
 这类算法的计算成本增长极快，通常被认为不可忍受。
 ###### 从O(n^c)到O(2^n)是从有效算法到无效算法的分水岭，很多问题的O(2^n)算法往往显而易见，然而，设计出O(n^c)算法却极其不易，甚至有时注定地只能是徒劳无功。
+###### 各个复杂度的函数图像
+![图1-7加载失败](http://a1.qpic.cn/psb?/V123pazn0FKOtx/X1kD10aTgga2ntEjF8jGZ6LznHyDC8rvCDlDMn3.v2I!/m/dDQBAAAAAAAAnull&bo=awOaAQAAAAARB8M!&rf=photolist&t=5 "图1-7")
