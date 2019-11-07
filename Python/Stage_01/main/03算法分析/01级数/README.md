@@ -11,3 +11,6 @@
 ### 几何级数
 ###### 几何级数 与末项同阶
 ![图1-4加载失败](http://a4.qpic.cn/psb?/V123pazn0FKOtx/43NTUxFCdtUFqy0l10fTU1KNJIxnW0dw4icGUEb1z1Q!/m/dL8AAAAAAAAAnull&bo=pwJUAAAAAAARB8E!&rf=photolist&t=5 "图1-4")
+### 收敛级数
+###### 收敛级数 视同为O(1)
+![图1-5加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/qfeUNqJCaF4DXzsjM66aOJZZ1wVKRJInFxaenVSsuLQ!/m/dFIBAAAAAAAAnull&bo=OgNyAAAAAAARB3s!&rf=photolist&t=5 "图1-5")
