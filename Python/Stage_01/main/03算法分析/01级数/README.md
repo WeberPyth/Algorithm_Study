@@ -14,3 +14,9 @@
 ### 收敛级数
 ###### 收敛级数 视同为O(1)
 ![图1-5加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/qfeUNqJCaF4DXzsjM66aOJZZ1wVKRJInFxaenVSsuLQ!/m/dFIBAAAAAAAAnull&bo=OgNyAAAAAAARB3s!&rf=photolist&t=5 "图1-5")
+### 调和级数
+###### 调和级数是确切的级数
+![图1-6加载失败](http://a3.qpic.cn/psb?/V123pazn0FKOtx/gfO6kuv6cw5XR23ZRMkHT9X0lLNzoaml7FwpNf4OUUw!/m/dD4BAAAAAAAAnull&bo=DAImAAAAAAARBxg!&rf=photolist&t=5 "图1-6")
+### 对数级数
+###### 对数级数是确切的级数
+![图1-7加载失败](http://a4.qpic.cn/psb?/V123pazn0FKOtx/8yijzNRB014Bo1q8vJviWfNvz6S1xg4XRsuvAF.ghVA!/m/dMMAAAAAAAAAnull&bo=lAIjAAAAAAARB4U!&rf=photolist&t=5 "图1-7")
