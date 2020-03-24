@@ -3,7 +3,7 @@
 冒泡排序法就是外层循环遍历整个数组，内层循环每次比对其中相邻的两个元素，将较大(或较小)的元素置于
 后置，该算法由于每次外层循环都会将一个元素放置到正确的位置上，故称冒泡排序法
 '''
-A = [5,4,3,2,1]
+A = [12,11,10,9,8,7,6,5,4,3,2,1]
 count = 0
 #原版
 def Solution_First(A):
@@ -19,9 +19,9 @@ def Solution_First(A):
     return A
 
 
-'''
-#print( Solution_First(A) )
-'''
+#'''
+print( Solution_First(A) )
+#'''
 
 #改进版
 def Solution_Adv(A):
@@ -41,9 +41,9 @@ def Solution_Adv(A):
             
     return A
 
-'''        
-print( Solution_Second(A) )
-'''
+#'''        
+#print( Solution_Adv(A) )
+#'''
 print(count)
 
 
